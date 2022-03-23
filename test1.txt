@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8AF7-D273
+
+ Directory of C:\Users\manoj\OneDrive\Desktop\MyProject
+
+23/03/2022  03:25 pm    <DIR>          .
+23/03/2022  03:18 pm    <DIR>          ..
+23/03/2022  03:25 pm                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  169,007,902,720 bytes free
